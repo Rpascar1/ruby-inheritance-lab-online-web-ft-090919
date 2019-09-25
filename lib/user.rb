@@ -15,9 +15,4 @@ class User
   end
 
   
-
-
-
-
-  
 end
